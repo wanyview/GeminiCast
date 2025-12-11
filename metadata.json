@@ -1,0 +1,5 @@
+{
+  "name": "GeminiCast",
+  "description": "An AI-powered podcast generator that turns any topic into a multi-speaker audio episode with cover art.",
+  "requestFramePermissions": []
+}
